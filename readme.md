@@ -142,17 +142,3 @@ Laporkan bug atau ide fitur di Issues
 Dukung proyek dengan ⭐ star di GitHub!
 
 ---
-
-### ⚡ Petunjuk:
-
-1. Simpan file di root project kamu sebagai `README.md`.
-2. GitHub otomatis merender badge, diagram Mermaid, dan tabel.
-3. Kamu bisa ubah nama repo jadi `turi` atau `turi-culture-map` agar lebih profesional.
-
----
-
-Mau sekalian saya bantu buatin juga:
-
-- 📦 `docker-compose.yml` default (Postgres + Redis + Bun + Flask)  
-  atau
-- 🧠 README versi dokumentasi developer (API endpoint list + schema Prisma)
